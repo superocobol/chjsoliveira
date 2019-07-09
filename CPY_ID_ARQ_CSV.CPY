@@ -1,0 +1,3 @@
+       01 WID-ARQ-CSV.
+000380     05 WNM-PATH-CSV PIC X(17) VALUE "C:\code\cobol\db\".
+           05 WNM-ARQ-CSV PIC X(50) VALUE "DISTRIBUICAO_OUT.CSV".
